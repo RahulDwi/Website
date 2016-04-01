@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>::Welcome to Ch. B.P. Government Engineering College, Jaffarpur::</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	
+</head>
+<body>
+		<img id="header" src="header.gif">
+		<marquee><strong>Welcome to Ch.B.P. Government Engineering College, Jaffarpur</strong></marquee>
+		<div id="menu">
+			<ul>
+				<li> <a href="#">Home</a></li>
+				<li> <a href="#">Discover CBPGEC</a></li>
+				<li> <a href="#">Courses</a></li>
+				<li> <a href="#">Student</a></li>
+				<li> <a href="#">Administration</a></li>
+				<li> <a href="#">Login</a></li>
+				<li> <a href="#">Events & Notices</a></li>
+				<li> <a href="#">Contact Us</a></li>
+			</ul>
+		</div>
+		
+		
+		<div id="footer">
+			<p> Feedback | Meet The Team | RTI | Contact Us | NPTEL <br>
+			&copy; All Rights Reserved by Ch. B.P. Govt. Engineering College, Jaffarpur </p>
+		</div>
+</body>
+</html>
